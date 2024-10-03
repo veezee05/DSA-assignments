@@ -9,7 +9,8 @@ public:
         song_title = "NA";
         next = NULL;
     } 
-    song(string d) {
+    song(string d)
+{
         song_title = d;
         next = NULL;
     }
