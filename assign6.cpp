@@ -13,8 +13,7 @@ class Node
             coeff = c;
             next = n;
         }
-   
-};
+   };
 
 class LL
 {
